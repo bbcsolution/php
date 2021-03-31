@@ -1,0 +1,51 @@
+:root{
+/* BBC Solution --- color & background Section */
+--white: #FFF;
+--black: #000;
+--blue: #0000FF;
+--red: #FF0000;
+--aliceblue: #F0F8FF;
+--grey: #ccc;
+--wallpaper: #005279;
+--pink: #FFC0CB;
+--shd_darker: rgba(2, 2, 2, 0.5);
+--rdv_darker: rgba(153, 148, 148, 0.5);
+--light_darker: #484242;
+--yellow: #FFFF00;/* BBC Solution --- Shadow Effects Section */
+--effect_shd: 0 0 10px rgba(0 ,0 ,0 , 1.5);
+--effect_rdx: 0 0 15px #CCCCCC;
+--effect_bmx: 0 0 9px rgba(0, 0, 0, 16.5);
+/* BBC Solution --- Effects Section */
+--blur_1: blur(1px);
+--blur_2: blur(1px);
+--blur_3: blur(1px);
+--blur_4: blur(1px);
+--blur_5: blur(1px);
+--blur_6: blur(1px);
+--blur_7: blur(1px);
+--blur_8: blur(1px);
+--blur_9: blur(1px);
+--blur_10: blur(1px);
+--brightness_1: brightness(0.5);
+--brightness_2: brightness(0.6);
+--brightness_3: brightness(0.7);
+--brightness_4: brightness(0.8);
+--brightness_5: brightness(0.9);
+--brightness_6: brightness(1.0);
+--contrast_1: contrast(0.5);
+--contrast_2: contrast(0.6);
+--contrast_3: contrast(0.7);
+--contrast_4: contrast(0.8);
+--contrast_5: contrast(0.9);
+--contrast_6: contrast(1.0);
+--linear_gradient_1: linear-gradient(45deg, #928181, transparent);
+--linear_gradient_2: linear-gradient(45deg, #6AF0F7, #9100FF75);
+--linear_gradient_3: linear-gradient(45deg, black, transparent);
+--linear_gradient_4: linear-gradient(45deg, #f7776a, #9100ff75);
+--linear_gradient_5: linear-gradient(45deg, #d46af7, #00f3ff75);
+--linear_gradient_6: linear-gradient(45deg, #f5f76a, #ffe000c2);
+--border_1_solid_black: 1px solid #000;
+--border_2_solid_black: 2px solid #000;
+--border_1_solid_light_dark: 1px solid #ccc;
+--border_2_solid_light_dark: 2px solid #ccc;
+}

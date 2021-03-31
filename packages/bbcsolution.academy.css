@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+:root{
+    --shadow_bbc: 0 8px 16px 0 rgb(0 0 0 / 25%);
+    --shadow_tool_bbcsolution: 0 2px 8px 0 rgb(0 0 0 / 5%);
+}

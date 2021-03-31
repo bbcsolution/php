@@ -1,0 +1,59 @@
+@import url("roots.css");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fff;
+}
+.sidebar{
+    width: 260px;
+    height: auto;
+    background: var(--white);
+    box-shadow: var(--effect_shd);
+    float: left;
+    display: block;
+    padding: 10px 30px;
+}
+.sidebar .sidebar-content{
+    width: 200px;
+    height: 150px;
+}
+.sidebar .sidebar-content .sidebar-header-bottom form input{
+    display: block;
+}
+input{
+    width: 200px;
+    border: var(--border_1_solid_light_dark);
+    height: 25px;
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+.container {
+    width: 100%;
+    height: auto;
+    background: var(--white);
+    box-shadow: var(--effect_shd);
+}
+.container .elements{
+    margin-left: 10px;
+    float: left;
+    background: var(--white);
+    display: block;
+    width: 200px;
+    height: 200px;
+    border: var(--border_1_solid_light_dark);
+    padding: 20px;
+}
+.container .elements ul li{
+    list-style: none;
+    color: var(--black);
+    border: var(--border_1_solid_light_dark);
+    margin-top: 5px;
+    padding: 5px 7px;
+}
+.container .elements ul li a{
+    color: var(--black);
+    text-decoration: none;
+}
